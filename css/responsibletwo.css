@@ -1,0 +1,171 @@
+@media(min-width: 1920px) {
+    header{
+        height: 15vh;
+    }
+
+    .titulo{
+        font-size: xx-large;
+    }
+
+    section{
+        height: 600px;
+    }
+
+    .projeto1{
+        font-size: x-large;
+    }
+
+    .cab .nave .menu .topico{
+        font-size: 30px;
+    }
+
+    .firstphoto img{
+        height: 40.6%;
+        width: 41%;
+        margin-top: 6.3%;
+    }
+
+    .projeto2 h1{
+        font-size: xx-large;
+    }
+
+    .projeto2{
+        font-size: x-large;
+    }
+
+    .secondphoto img{
+        height: 34%;
+        width: 40%;
+        margin-top: 0.1%;
+    }
+
+    footer{
+        height: 850px;
+    }
+
+    .projeto3{
+        font-size: x-large;
+    }
+
+    .projeto3 h1{
+        font-size: xx-large;
+    }
+
+    .thirdphoto img{
+        height: 62.8%;
+        width: 25%;
+        margin-left: 10%;
+        margin-top: 6%;
+    }
+
+    .projeto4{
+        font-size: x-large;
+    }
+
+    .projeto4 h1{
+        font-size: xx-large;
+    }
+
+    .fourphoto img{
+        height: 55%;
+        width: 25%;
+        margin-top: 1.2%;
+    }
+
+    figure{
+        height: 1400px;
+    }
+
+    .projeto5{
+        padding-top: 1%;
+        font-size: x-large;
+    }
+
+    .projeto5 h1{
+        font-size: xx-large;
+    }
+
+    .fivephoto img{
+        height: 50%;
+        width: 40%;
+        margin-top: 6%;
+    }
+
+    .projeto6 h1{
+        font-size: xx-large;
+    }
+
+    .projeto6{
+        font-size: x-large;
+        padding-top: 0.4%;
+    }
+
+    .sixphoto img{
+        height: 49%;
+        width: 40%;
+        margin-top: 6.3%;
+    }
+
+    .projeto7{
+        padding-top: 5%;
+        font-size: xx-large;
+    }
+
+    .projeto7 h1{
+        padding-top: 4%;
+        font-size: xx-large;
+    }
+
+    .sevenphoto img{
+        height: 50%;
+        width: 40%;
+        margin-top: 37%;
+    }
+
+    main h2{
+        font-size: xx-large;
+        margin-left: 37%;
+    }
+
+    .eightphoto img{
+        height: 55%;
+        width: 30%;
+        margin-top: 4%;
+    }
+    
+    .ninephoto img{
+        height: 55%;
+        width: 35%;
+        margin-top: 4%;
+    }
+    
+    .tenphoto img{
+        height: 55%;
+        width: 25%;
+        margin-top: 3.8%;
+    }
+
+    main{
+        height: 800px;
+    }
+
+    .ferramentas{
+        font-size: x-large;
+    }
+
+    article{
+        height: 400px;
+    }
+
+    aside h1{
+        font-size: 80px;
+    }
+    
+    aside h3{
+        font-size: 50px;
+    }
+
+    aside nav a{
+        font-size: 50px;
+    }
+}

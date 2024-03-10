@@ -1,0 +1,185 @@
+@media(max-width: 425px) {
+    header{
+        height: 30vh;
+    }
+
+    section{
+        height: 730px;
+    }
+
+    .titulo{
+        font-size: 40px;
+        margin-left: 13%;
+        color: black;
+    }
+
+    .cab .nave .menu .topico{
+        margin: 10px;
+        font-family: 'Titillium Web', Courier, monospace;
+        font-size: 20px;
+        margin-left: 19%;
+    }
+
+    .projeto1{
+        margin-left: 11%;
+        width: 300px;
+    }
+
+    .firstphoto img{
+        height: 40%;
+        width: 90%;
+        margin-top: 27%;
+        margin-left: 5%;
+    }
+
+    .projeto2{
+        margin-top: 37%;
+        margin-left: 4%;
+        width: 300px;
+    }
+
+    .secondphoto img{
+        width: 40%;
+        margin-top: 0.3%;
+        margin-left: 2%;
+    }
+
+    footer{
+        height: 155vh;
+    }
+
+    .projeto3{
+        margin-left: 8%;
+    }
+
+    .thirdphoto img{
+        height: 55%;
+        width: 60%;
+        margin-left: 20%;
+        margin-top: 24%;
+    }
+
+    .projeto4{
+        margin-left: 3.7%;
+        margin-top: 45%;
+        width: 40%;
+    }
+
+    .fourphoto img{
+        height: 55%;
+        width: 27.5%;
+        margin-left: 8%;
+        margin-top: 1.2%;
+    }
+
+    figure{
+        height: 210vh;
+    }
+
+    .projeto5{
+        margin-left: 10%;
+        margin-top: 5%;
+        width: 80%;
+    }
+
+    .fivephoto img{
+        height: 50%;
+        width: 93%;
+        margin-left: 4%;
+        margin-top: 27%;
+    }
+
+    .projeto6{
+        margin-left: 10%;
+        margin-top: 102%;
+        width: 80%;
+    }
+
+    .sixphoto img{
+        height: 50%;
+        width: 92%;
+        margin-left: 5%;
+        margin-top: 120%;
+    }
+
+    .projeto7{
+        margin-left: 10%;
+        margin-top: 195%;
+        width: 80%;
+    }
+
+    .sevenphoto img{
+        height: 50%;
+        width: 40.5%;
+        margin-left: 2%;
+        margin-top: 94%;
+    }
+
+    main{
+        height: 207vh;
+    }
+
+    main h2{
+        margin-left: 3%;
+        margin-top: 1%;
+    }
+
+    .eightphoto img{
+        width: 65%;
+        margin-top: 4%;
+        margin-left: 17%;
+    }
+
+    .ninephoto img{
+        height: 55%;
+        width: 91%;
+        margin-top: 98%;
+        margin-left: 5%;
+    }
+
+    .tenphoto img{
+        width: 65%;
+        margin-top: 181%;
+        margin-left: 17%;
+    }
+
+    .photos img{
+        height: 17%;
+        width: 20%;
+        margin-top: 5%;
+    }
+
+    .illus img{
+        height: 13%;
+        width: 17%;
+        margin-left: 20%;
+        margin-top: 8%;
+    }
+    
+    .corels img{
+        height: 13%;
+        width: 15%;
+        margin-left: 40%;
+        margin-top: 8%;
+    }
+    
+    .site img{
+        height: 17%;
+        width: 30%;
+        margin-top: 3%;
+        margin-left: 58%;
+    }
+
+    aside h1{
+        margin-right: 55%;
+    }
+
+    aside h3{
+        margin-right: 55%;
+    }
+
+    aside nav a{
+        margin-right: 62%;
+        color: rgb(67, 67, 197);
+    }
+}
